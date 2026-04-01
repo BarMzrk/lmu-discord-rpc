@@ -50,9 +50,19 @@ If you encounter any bugs or have suggestions for new features, feel free to rea
 
 ---
 
+## ⚖️ Intellectual Property & Copyright Notice
+
+This project is a non-commercial, fan-made tool created for the community. All game content, logos, track names, and car brands used in this application belong to their respective owners (Studio 397, Motorsport Games, ACO, etc.).
+
+**If you are a copyright holder and believe that any content in this application infringes upon your rights, please contact me directly before taking any formal action.** I am committed to addressing and resolving such concerns promptly, including the removal of the contested content.
+
+- **Discord:** dark059
+- **Email:** barismzrk59@gmail.com
+
+---
+
 ## 📜 Credits
 
-Created with ❤️ by **Baris(D A R K)**. 
-Special thanks to the rFactor 2 / LMU developer community for Shared Memory documentation.
+Copyright © 2026 D A R K. All rights reserved.
 
 *Disclaimer: This project is not affiliated with Studio 397 or Motorsport Games.*
