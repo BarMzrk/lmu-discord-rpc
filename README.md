@@ -22,7 +22,7 @@ A sleek, feature-rich, and lightweight Discord Rich Presence (RPC) tool specific
 
 ## 🛠️ How to Use
 
-1. **Download:** Go to the [Releases](https://github.com/KullaniciAdin/lmu-discord-rpc/releases) page and download the latest version.
+1. **Download:** Go to the [Releases](https://github.com/BarMzrk/lmu-discord-rpc/releases) page and download the latest version.
 2. **Launch:** Open `LMU_Discord_RPC.exe`.
 3. **Race:** Start Le Mans Ultimate. The tool will automatically detect the game and update your Discord status.
 4. **Auto-Start:** Enable "Run at Windows Startup" in the settings to never miss a session.
