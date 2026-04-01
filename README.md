@@ -1,4 +1,4 @@
-# LMU_Discord_RPC (D A R K) 🏁
+# LMU_Discord_RPC
 
 A sleek, feature-rich, and lightweight Discord Rich Presence (RPC) tool specifically designed for **Le Mans Ultimate**. Enhance your Discord profile with real-time racing stats and a professional dark-themed interface.
 
@@ -31,8 +31,6 @@ A sleek, feature-rich, and lightweight Discord Rich Presence (RPC) tool specific
 
 ## 📸 Screenshots
 
-*(Tip: Add your application screenshots here to show off the D A R K UI!)*
-
 ---
 
 ## 🏎️ Supported Content
@@ -54,7 +52,7 @@ If you encounter any bugs or have suggestions for new features, feel free to rea
 
 ## 📜 Credits
 
-Created with ❤️ by **Baris (D A R K)**. 
+Created with ❤️ by **Baris(D A R K)**. 
 Special thanks to the rFactor 2 / LMU developer community for Shared Memory documentation.
 
 *Disclaimer: This project is not affiliated with Studio 397 or Motorsport Games.*
