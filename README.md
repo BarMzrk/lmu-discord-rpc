@@ -1,1 +1,60 @@
-# lmu-discord-rpc
+# LMU_Discord_RPC (D A R K) 🏁
+
+A sleek, feature-rich, and lightweight Discord Rich Presence (RPC) tool specifically designed for **Le Mans Ultimate**. Enhance your Discord profile with real-time racing stats and a professional dark-themed interface.
+
+![License](https://img.shields.io/badge/License-MIT-purple.svg)
+![Version](https://img.shields.io/badge/Version-1.0-blueviolet.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue.svg)
+
+---
+
+## 🚀 Features
+
+- **Live Session Tracking:** Automatically displays if you are in a **Practice, Qualifying, or Race** session.
+- **Dynamic Assets:** High-quality logos for tracks and cars covering **2023, 2024, 2025, and 2026** WEC seasons.
+- **Detailed Stats:** Shows your current position, total cars in class, and remaining session time.
+- **Smart Update System:** Built-in update checker that notifies you within the app when a new version is released.
+- **Minimalist UI:** A beautiful dark-themed Windows Form interface that matches the racing aesthetic.
+- **One-Click Community:** Direct integration to join our Discord community for support and feedback.
+- **Performance Optimized:** Uses Shared Memory API for near-zero CPU usage.
+
+---
+
+## 🛠️ How to Use
+
+1. **Download:** Go to the [Releases](https://github.com/KullaniciAdin/lmu-discord-rpc/releases) page and download the latest version.
+2. **Launch:** Open `LMU_Discord_RPC.exe`.
+3. **Race:** Start Le Mans Ultimate. The tool will automatically detect the game and update your Discord status.
+4. **Auto-Start:** Enable "Run at Windows Startup" in the settings to never miss a session.
+
+---
+
+## 📸 Screenshots
+
+*(Tip: Add your application screenshots here to show off the D A R K UI!)*
+
+---
+
+## 🏎️ Supported Content
+
+- **Tracks:** Le Mans, Imola, Spa, Monza, Fuji, Sebring, Portimão, Bahrain, Interlagos, COTA, Lusail, Paul Ricard, and more.
+- **Classes:** Hypercars, LMP2, GTE, and GT3 (LMGT3) with specific car models and numbers.
+
+---
+
+## 🤝 Support & Community
+
+If you encounter any bugs or have suggestions for new features, feel free to reach out:
+
+- **Discord:** [Join our Community](https://discord.gg/7DVmguPBbS)
+- **Developer:** dark059
+- **Email:** barismzrk59@gmail.com
+
+---
+
+## 📜 Credits
+
+Created with ❤️ by **Baris (D A R K)**. 
+Special thanks to the rFactor 2 / LMU developer community for Shared Memory documentation.
+
+*Disclaimer: This project is not affiliated with Studio 397 or Motorsport Games.*
