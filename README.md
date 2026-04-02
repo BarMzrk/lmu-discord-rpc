@@ -30,6 +30,8 @@ A sleek, feature-rich, and lightweight Discord Rich Presence (RPC) tool specific
 ---
 
 ## 📸 Screenshots
+<img width="346" height="477" alt="image" src="https://github.com/user-attachments/assets/efc7e496-d03f-483b-aa65-4e06e6cafd38" />
+
 
 ---
 
